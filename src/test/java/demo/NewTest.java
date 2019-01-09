@@ -9,6 +9,8 @@ public class NewTest {
   public void f() {
 	  System.out.println("This is at test");
 	System.out.println("This is at test1");	
+	System.out.println("This is at test2");	
+	
   }
   @BeforeTest
   public void beforeTest() {
